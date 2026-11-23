@@ -1,6 +1,6 @@
 # 다운하기
 1. 오른쪽 'Releases'누르기
-2. 'Assets'에서 'Winter_Story_background_Project_20261115.zip'다운하기
+2. 'Assets'에서 'Making_Of_Winter_background_Project.zip'다운하기
 
 # 다운받은 후
 1. ZIP 파일 전체를 원하는 폴더에 압축 해제.
